@@ -1,0 +1,38 @@
+[
+  {
+    "name": "API",
+    "url": "https://api.seewhocares.com/status/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.seewhocares.com.ico",
+    "slug": "api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Web app",
+    "url": "https://app.seewhocares.com",
+    "icon": "https://icons.duckduckgo.com/ip3/app.seewhocares.com.ico",
+    "slug": "web-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 747,
+    "timeDay": 747,
+    "timeWeek": 747,
+    "timeMonth": 747,
+    "timeYear": 747,
+    "dailyMinutesDown": {}
+  }
+]
